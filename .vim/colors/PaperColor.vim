@@ -1,16 +1,3 @@
-Skip to content
-This repository  
-Pull requests
-Issues
-Gist
- @garrettedwards95
- Watch 8
-  Star 238
- Fork 15NLKNguyen/papercolor-theme
-Branch: master  papercolor-theme/colors/PaperColor.vim
-@NLKNguyenNLKNguyen 7 days ago Add Yaml syntax colors and vim-startify plugin support; Add customiza…
-3 contributors @NLKNguyen @shvetsovdm @renechz
-RawBlameHistory     1139 lines (1010 sloc)  40.915 kB
 " Theme: PaperColor
 " Author: Nguyen Nguyen <NLKNguyen@MSN.com>
 " License: MIT
@@ -1148,6 +1135,3 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
   delf <SID>grey_level
   delf <SID>grey_number
 endif
-" vim: fdm=marker
-Status API Training Shop Blog About Help
-© 2015 GitHub, Inc. Terms Privacy Security Contact
